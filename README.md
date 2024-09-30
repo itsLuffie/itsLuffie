@@ -2,14 +2,6 @@
 <h3 align="center"> Tech Enthusiast </h3>
 
 
-- 🧠 I am currently learning **Python**
-
-## Feedback
-
-If you have any feedback, please reach out to us at
-
-**Email:** pawanchaudhary77@proton.me
-
 
 
 <p align="center">
@@ -30,6 +22,10 @@ If you have any feedback, please reach out to us at
   </a>
 </p>
 
-<a href="https://github.com/itsLuffie"><img alt="Pawan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=itsLuffie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<p>
+    <a href="https://github.com/itsLuffie"><img alt="Pawan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=itsLuffie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/itsLuffie"><img alt="Pawan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=itsLuffie&langs_count=4&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>
+
 
 ![Pawan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsLuffie&custom_title=Pawan%20Chaudhary's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
