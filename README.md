@@ -1,4 +1,4 @@
-# Hi There 👋, It's me **Pawan Chaudhary**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2966F7&width=435&lines=Hi+There+%F0%9F%91%8B%2C+It's+me+Pawan+Chaudhary)](https://git.io/typing-svg)
 <h3 align="center"> Tech Enthusiast </h3>
 
 ## Feedback
