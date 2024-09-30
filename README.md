@@ -18,3 +18,5 @@ If you have any feedback, please reach out to us at
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsLuffie)](https://git.io/streak-stats)
+
+![Pawan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsLuffie&custom_title=Pawan%20Chaudhary's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
