@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2966F7&width=435&lines=Hi+There+%F0%9F%91%8B%2C+It's+me+Pawan+Chaudhary)](https://git.io/typing-svg)
+
+
+
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=itsLuffie&label=Visitors&color=1422F7&style=flat" alt="Profile visitor count" />
+</a>
 <h3 align="center"> Tech Enthusiast </h3>
-
-
 
 
 <p align="center">
@@ -15,6 +19,8 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/itsLuffie">
