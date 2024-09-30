@@ -2,7 +2,7 @@
 <h3 align="center"> Tech Enthusiast </h3>
 
 
-- I am currently learning **Python**
+- 🧠 I am currently learning **Python**
 
 ## Feedback
 
