@@ -32,7 +32,11 @@
     <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> </a>
     <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a>
-    <a href="https://fedoraproject.org/" target="_blank"><img align="left" alt="Fedora" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg"> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-plain.svg" target="_blank"> <img align="left" alt="GitHub-Actions" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-plain.svg" /> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" /> </a>
+    <a href="https://www.vim.org/" target="_blank"> <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vim/vim-original.svg" /> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="Mysql" width="40px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" /> </a>
+    
   </br>
 </p>
 
