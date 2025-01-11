@@ -36,6 +36,7 @@
     <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" /> </a>
     <a href="https://www.vim.org/" target="_blank"> <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vim/vim-original.svg" /> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="Mysql" width="40px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" /> </a>
+    <a href="https://www.vagrantup.com/" target="_blank"> <img align="left" alt="Mysql" width="30px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vagrant/vagrant-original.svg" /> </a>
     
   </br>
 </p>
