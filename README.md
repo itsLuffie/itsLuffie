@@ -26,7 +26,7 @@
 <h2 align="center">💻 Tech Stack</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,git,python,linux,docker,vim,github-actions,mysql&perline=20")</a>
+      <img src="https://skillicons.dev/icons?i=html,css,git,python,linux,docker,vim,mysql&perline=20")</a>
 </p>
 
 
