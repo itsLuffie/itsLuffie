@@ -6,13 +6,13 @@
 
 
 
-  <a href="https://komarev.com/ghpvc/?username=itsLuffie">
+<a href="https://komarev.com/ghpvc/?username=itsLuffie">
   <img align="right" src="https://komarev.com/ghpvc/?username=itsLuffie&label=Visitors&color=7F3FBF&style=flat" alt="Profile visitor count" />
-  </a>
+</a></br>
 
-  
+
+
 <h3 align="center">Tech Enthusiast </h3>
-
 
 <p align="center">
  <a href="https://chaudharypawan.com.np/" target="_blank">
